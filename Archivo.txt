@@ -1,1 +1,3 @@
 Hoal
+
+Esta es una edicion que se realiza en el repositorio remoto (Github) para simular cambios hechos por otra persona en el repositorio.
